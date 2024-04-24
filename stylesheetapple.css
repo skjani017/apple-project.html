@@ -1,0 +1,419 @@
+
+/* head-section */
+
+
+.hover-text {
+    position: relative;
+    display: inline-block;
+    
+    
+}
+
+.hidden-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    color: #ffffff;
+    background-color: #000;
+    border: 1px solid #ccc;
+    padding: 10px;
+    z-index: 10;
+}
+
+.hover-text:hover .hidden-content {
+    display: block;
+}
+ .head {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    column-gap: 30px ;
+    
+} .head li{
+    display: inline; /* Display list items side by side */
+    margin-right: 30px; /* Add some spacing between list items */
+    column-gap: 30px ;
+}  
+.header{
+display: flex;
+padding-left:20%;
+background-color: #555;
+color: #f1f1f1;
+margin-top: -8px;
+height:40px ;
+align-items: center;
+/* justify-content: center; */
+align-content: center;
+width: 81vw;
+margin-left: -8px;
+font-size: small;
+
+}
+
+ /*  img:hover{
+
+box-shadow: 2px 4px 10px;
+    transition: box-shadow 0.4s ease-in-out;
+}  */
+.outershop{
+display:flex;
+
+}.hidden-content {
+width: 600px;
+}
+
+.hidden-content h2 {
+margin: 0;
+
+}
+
+
+
+.hidden-content {
+width: 600px;
+} .hidden-content a {
+text-decoration: none;
+color:#ffffff;
+} 
+.outershop{
+    display: flex;
+}
+.fstshop {
+margin: 20px 0;
+margin-left: 20px;
+} 
+
+.secondshop {
+margin: 40px 0; 
+margin-left: 40px;
+}
+
+.thirddshop {
+margin: 40px 0; 
+margin-left: 40px;
+}
+.header{
+    position: sticky;
+    top: 1px;
+}
+
+
+      /* body-section */
+
+
+      h3{
+        text-align: center;
+       
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    .sk{
+        width: 100vw;
+        height: 100vh;
+        border: 2px solid;
+        margin-top: -20px;
+         background-image: url(./assets/iphone\ gold.jpeg); 
+         background-size: cover;
+    }
+     .md{
+        text-align: center;
+        font-size: 55px; 
+        color: white;
+        margin-top: px; 
+     }
+    .md1{
+        text-align: center;
+        color: white;
+        font-size: 28px;
+       margin-top: -30px ;
+    }
+    .text1{
+        border: 2px solid #0000ff;
+        width: 120px;
+        height: 40px;
+        margin-left: 600px;
+        border-radius: 30px;
+         text-align: center;
+         align-content: center;
+         color: white;
+         background-color: #0000ff;
+
+
+    }
+    .text2{
+        border: 2px solid #0000ff;
+        width: 70px;
+        height: 40px;
+        margin-left: 770px;
+        margin-top: -44px;
+       border-radius: 30px;
+        text-align: center;
+         align-content: center;
+         color: white;
+         background-color: #0000ff;
+
+    }
+    .sk2{
+        width: 100vw;
+        height: 30vh;
+        /* border: 2px solid; */
+        margin-top: -20px;
+        background-image: url(./assets/a.png);
+        
+    }
+    .mv{
+        /* border: 2px solid black; */
+        width: 100vw;
+        height: 50vh;
+        background-image: url(./assets/iphone\ 15\ blue.jpg); 
+        background-size: cover;
+    }
+    .sk3{
+        width: 100vw;
+        height: 30vh;
+        /* border: 2px solid; */
+        color: #000;
+        background-image: url(./assets/a.png);
+       
+         /* background-image: url()
+        background-size: cover;   */
+
+    }
+    .mv1{
+        width: 100vw;
+        height: 80vh;
+        /* border: 2px solid; */
+        /* background-image: url(../assets/pc.png);
+        background-size: 150%;    */
+    }
+    .mv1 img{
+        /* margin-left: -300px; */
+    }
+    .sk4{
+        width: 100vw;
+        height: 80vh;
+        /* border: 2px solid black;  */
+         display: flex; 
+         background-size: cover;}
+        
+    .sk5{
+        width: 50vw;
+        height: 35vh;
+         /* border: 2px solid black;  */
+        background-color: #000;
+        
+
+    }
+    .cd1{
+        width: 50vw;
+        height: 51vh;
+        /* border: 2px solid black; */
+        background-image: url(./assets/watch.jpeg);
+        background-size: cover;
+        margin-left: -2px;
+       
+    }
+    .md2{
+        margin-top: 50px;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .text3{
+        border: 2px solid #0000ff;
+        width: 120px;
+        height: 40px; 
+        border-radius: 30px; 
+        margin-left: 240px; 
+        text-align: center;
+         align-content: center;
+         background-color: #0000ff;
+    }
+    .text4{
+        border: 2px solid  #0000ff;
+        width: 70px;
+        height: 40px;
+        border-radius: 30px; 
+        margin-left: 410px; 
+        margin-top: -43px; 
+        text-align: center;
+         align-content: center;
+         background-color: #0000ff;
+    }
+    .sk6{
+        width: 50vw;
+        height: 30vh;
+        /* border: 2px solid black;  */
+        background-image: url(./assets/a.png);
+    }
+    .md4{
+      text-align: center; 
+      margin-top: 50px; 
+    }
+    .cd2{
+       width: 50vw ; 
+       height: 50vh;
+       /* border: 2px solid black; */
+       margin-top: 25px;
+       margin-left: -2px;
+       background-image: url(./assets/a.png);
+      
+    }
+    .cd2 img{
+        margin-left: 210px;
+    }
+    .sk7{
+        width: 100vw;
+        height: 90vh;
+        /* border: 2px solid black;  */
+         display: flex; 
+    }
+    .sk8{
+        width: 50vw;
+        height: 30vh ;
+        /* border: 2px solid black; */
+        background-color: #000;
+        color: #ffffff;
+        
+    }
+    .md6,.md8,.md10,.md12{
+        text-align: center;
+    }
+    .cd3{
+        width: 50vw;
+        height: 70vh;
+        /* border: 2px solid black; */
+        margin-top: 55px;
+        background-image: url(./assets/a.png);
+    }
+    .sk9{
+        width: 50vw;
+        height: 30vh ;
+        /* border: 2px solid black; */
+        background-image: url(./assets/a.png);
+       
+
+    }
+    .cd3{
+        width: 50vw;
+        height: 60vh;
+        /* border: 2px solid black; */
+        margin-top: 55px; 
+        background-image: url(./assets/buds.jpeg); 
+        background-size: cover;
+        margin-left: -2px;
+        
+    }
+    .cd4{
+        width: 50vw;
+        height: 60vh;
+        /* border: 2px solid black;  */
+        background-image: url(./assets/bk.png); 
+        background-size: 95%;
+        background-repeat: no-repeat;
+        margin-top: 55px;
+       
+    }
+    .sk10{
+        width: 100vw;
+        height: 95vh;
+        /* border: 2px solid black;  */
+         display: flex; 
+    }
+    .sk11{
+        width: 50vw;
+        height: 30vh ;
+        /* border: 2px solid black; */
+        background-image: url(./assets/a.png);
+    }
+    .cd5{
+        width: 50vw;
+        height: 64vh;
+        /* border: 2px solid black; */
+        margin-top: 99px; 
+        background-image: url(./assets/hp.png);  
+        background-size: 100%; 
+        background-repeat: no-repeat; 
+        margin-left: -2px;
+        
+    }
+    .sk12{
+        width: 50vw;
+        height: 30vh ;
+        /* border: 2px solid black;   */
+       
+    }
+    .cd6{
+        width: 50vw;
+        height: 64vh;
+        /* border: 2px solid black; */
+        margin-top: 60px; 
+        background-image: url(./assets/hi.png); 
+        background-size: 100%; 
+        background-repeat: no-repeat; 
+        margin-left: -2px;
+        margin-top: -auto ;  
+       
+    }
+    .rr{
+        border: 2px solid  #0000ff;
+        width: 100px;
+        height: 40px;
+        border-radius: 70px; 
+       margin-left: 320px;
+        margin-top: -10px; 
+        text-align: center;
+         align-content: center;
+         background-color: #0000ff; 
+    }
+
+
+       
+        
+
+        /* BOTTOM-CONTENT */
+        
+        .bottom-content{
+            width: 100vw;
+            height: 38vh;
+            /* border: 2px solid black; */
+            color: black;
+           
+
+        }
+        p{
+            text-align: center;
+           
+
+        }
+        .kv{
+            width: 100vw;
+            height: 60vh;
+            /* border: 2px solid black; */
+            display:flex;
+           
+            gap: 120px;
+           
+           
+        }
+        ul a{
+            text-decoration: none;
+           color: black;
+        }
+       
+        
+        .pv1,.pv2,.pv3,.pv4,.pv5{
+            list-style-type: none;
+            text-decoration: none;
+           
+        }
+        .zx{
+            width: 100vw;
+            height: 5vh;
+            /* border: 2px solid black; */
+            display: flex;
+            list-style-type: none;
+        }
+
