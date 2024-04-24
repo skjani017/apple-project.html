@@ -115,7 +115,7 @@ margin-left: 40px;
         height: 100vh;
         border: 2px solid;
         margin-top: -20px;
-         background-image: url(./assets/iphone\ gold.jpeg); 
+         background-image: url(./iphone\ gold.jpeg); 
          background-size: cover;
     }
      .md{
@@ -161,14 +161,14 @@ margin-left: 40px;
         height: 30vh;
         /* border: 2px solid; */
         margin-top: -20px;
-        background-image: url(./assets/a.png);
+        background-image: url(./a.png);
         
     }
     .mv{
         /* border: 2px solid black; */
         width: 100vw;
         height: 50vh;
-        background-image: url(./assets/iphone\ 15\ blue.jpg); 
+        background-image: url(./iphone\ 15\ blue.jpg); 
         background-size: cover;
     }
     .sk3{
@@ -176,7 +176,7 @@ margin-left: 40px;
         height: 30vh;
         /* border: 2px solid; */
         color: #000;
-        background-image: url(./assets/a.png);
+        background-image: url(./a.png);
        
          /* background-image: url()
         background-size: cover;   */
@@ -211,7 +211,7 @@ margin-left: 40px;
         width: 50vw;
         height: 51vh;
         /* border: 2px solid black; */
-        background-image: url(./assets/watch.jpeg);
+        background-image: url(./watch.jpeg);
         background-size: cover;
         margin-left: -2px;
        
@@ -246,7 +246,7 @@ margin-left: 40px;
         width: 50vw;
         height: 30vh;
         /* border: 2px solid black;  */
-        background-image: url(./assets/a.png);
+        background-image: url(./a.png);
     }
     .md4{
       text-align: center; 
@@ -258,7 +258,7 @@ margin-left: 40px;
        /* border: 2px solid black; */
        margin-top: 25px;
        margin-left: -2px;
-       background-image: url(./assets/a.png);
+       background-image: url(./a.png);
       
     }
     .cd2 img{
@@ -286,13 +286,13 @@ margin-left: 40px;
         height: 70vh;
         /* border: 2px solid black; */
         margin-top: 55px;
-        background-image: url(./assets/a.png);
+        background-image: url(./a.png);
     }
     .sk9{
         width: 50vw;
         height: 30vh ;
         /* border: 2px solid black; */
-        background-image: url(./assets/a.png);
+        background-image: url(./a.png);
        
 
     }
@@ -301,7 +301,7 @@ margin-left: 40px;
         height: 60vh;
         /* border: 2px solid black; */
         margin-top: 55px; 
-        background-image: url(./assets/buds.jpeg); 
+        background-image: url(./buds.jpeg); 
         background-size: cover;
         margin-left: -2px;
         
@@ -310,7 +310,7 @@ margin-left: 40px;
         width: 50vw;
         height: 60vh;
         /* border: 2px solid black;  */
-        background-image: url(./assets/bk.png); 
+        background-image: url(./bk.png); 
         background-size: 95%;
         background-repeat: no-repeat;
         margin-top: 55px;
@@ -326,14 +326,14 @@ margin-left: 40px;
         width: 50vw;
         height: 30vh ;
         /* border: 2px solid black; */
-        background-image: url(./assets/a.png);
+        background-image: url(./a.png);
     }
     .cd5{
         width: 50vw;
         height: 64vh;
         /* border: 2px solid black; */
         margin-top: 99px; 
-        background-image: url(./assets/hp.png);  
+        background-image: url(./hp.png);  
         background-size: 100%; 
         background-repeat: no-repeat; 
         margin-left: -2px;
@@ -350,7 +350,7 @@ margin-left: 40px;
         height: 64vh;
         /* border: 2px solid black; */
         margin-top: 60px; 
-        background-image: url(./assets/hi.png); 
+        background-image: url(./hi.png); 
         background-size: 100%; 
         background-repeat: no-repeat; 
         margin-left: -2px;
